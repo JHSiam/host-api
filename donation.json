@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Food Aid for Low-Income Families",
+    "image": "https://i.ibb.co.com/R7Q4432/istockphoto-1314806165-1024x1024.jpg",
+    "description": "This campaign focuses on providing monthly food packages containing rice, lentils, oil, and other essentials to low-income families in urban areas. The goal is to support these families during economic hardships caused by inflation and unemployment.",
+    "status": "Active",
+    "contactInfo": "aid@foodrelief.org",
+    "division": "Dhaka"
+  },
+  {
+    "id": 2,
+    "title": "Healthcare for Street Children",
+    "image": "https://i.ibb.co.com/R7Q4432/istockphoto-1314806165-1024x1024.jpg",
+    "description": "Street children often lack access to basic healthcare. This initiative organizes regular medical camps where children receive free check-ups, vaccinations, and treatment for common illnesses, along with health education.",
+    "status": "Ongoing",
+    "contactInfo": "care@childhealth.org",
+    "division": "Dhaka"
+  },
+  {
+    "id": 3,
+    "title": "Cyclone Relief Fund",
+    "image": "https://i.ibb.co.com/R7Q4432/istockphoto-1314806165-1024x1024.jpg",
+    "description": "Cyclones frequently devastate coastal areas, leaving families homeless and without basic supplies. This campaign aims to distribute emergency relief kits, including food, water, and first aid, and to help rebuild homes in affected areas.",
+    "status": "Active",
+    "contactInfo": "relief@cycloneaid.org",
+    "division": "Khulna"
+  },
+  {
+    "id": 4,
+    "title": "Rehabilitation for Homeless Families",
+    "image": "https://i.ibb.co.com/R7Q4432/istockphoto-1314806165-1024x1024.jpg",
+    "description": "Homeless families are among the most vulnerable groups. This project constructs permanent shelters and provides them with access to clean water, sanitation, and skill training to help them rebuild their lives.",
+    "status": "Completed",
+    "contactInfo": "contact@homerehab.org",
+    "division": "Khulna"
+  },
+  {
+    "id": 5,
+    "title": "Tree Plantation Drive",
+    "image": "https://i.ibb.co.com/R7Q4432/istockphoto-1314806165-1024x1024.jpg",
+    "description": "In response to increasing deforestation and climate change, this campaign encourages communities to plant trees in urban and rural areas. The initiative also conducts workshops on environmental sustainability and the importance of forest conservation.",
+    "status": "Active",
+    "contactInfo": "green@treeplantation.org",
+    "division": "Khulna"
+  },
+  {
+    "id": 6,
+    "title": "Education for Orphaned Children",
+    "image": "https://i.ibb.co.com/R7Q4432/istockphoto-1314806165-1024x1024.jpg",
+    "description": "This campaign provides free education, books, uniforms, and meals to orphaned children. By partnering with local schools and teachers, the initiative ensures that these children have access to a safe learning environment and opportunities for a brighter future.",
+    "status": "Ongoing",
+    "contactInfo": "info@orphaneducation.org",
+    "division": "Chattogram"
+  },
+  {
+    "id": 7,
+    "title": "Clean Drinking Water Project",
+    "image": "https://i.ibb.co.com/R7Q4432/istockphoto-1314806165-1024x1024.jpg",
+    "description": "Many rural communities face severe water shortages and rely on unsafe water sources. This project installs tube wells, builds water purification plants, and educates communities on hygiene to ensure access to clean drinking water.",
+    "status": "Active",
+    "contactInfo": "support@cleanwater.org",
+    "division": "Chattogram"
+  },
+  {
+    "id": 8,
+    "title": "Flood Rehabilitation Drive",
+    "image": "https://i.ibb.co.com/R7Q4432/istockphoto-1314806165-1024x1024.jpg",
+    "description": "Floods often displace thousands of families and destroy infrastructure. This campaign provides temporary shelters, financial support, and construction materials to help affected families rebuild their homes and recover their livelihoods.",
+    "status": "Ongoing",
+    "contactInfo": "help@floodrelief.org",
+    "division": "Dhaka"
+  },
+  {
+    "id": 9,
+    "title": "Free Medical Camp for Villages",
+    "image": "https://i.ibb.co.com/R7Q4432/istockphoto-1314806165-1024x1024.jpg",
+    "description": "In remote villages where access to healthcare is limited, this campaign organizes free medical camps with doctors, medicines, and diagnostic services. The goal is to improve overall community health and address untreated illnesses.",
+    "status": "Active",
+    "contactInfo": "care@ruralhealth.org",
+    "division": "Chattogram"
+  }
+]
